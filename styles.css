@@ -1,0 +1,18 @@
+#DivGrande{
+	height: 75%;
+	width: 75%;
+	margin: auto;
+}
+#Lista{
+	font-size: 25px;
+	color: red;
+}
+#Imagen{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#Link{
+	color: green;
+}
